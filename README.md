@@ -8,5 +8,9 @@
 + npm install
 + hexo server
 
-### 修改端口号
+#### 修改端口号
 - hexo server -p 5000
+
+#### 分页
+- https://github.com/hexojs/hexo-pagination
+
