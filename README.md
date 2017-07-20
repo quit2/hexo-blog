@@ -7,3 +7,6 @@
 + cd blog
 + npm install
 + hexo server
+
+### 修改端口号
+- hexo server -p 5000
